@@ -303,12 +303,3 @@ Responsive design has been tested on:
 - Laptops (769px - 1024px)
 - Desktops (1025px and above)
 
-## 📝 Credits
-
-- Original Design: [Razorpay](https://razorpay.com/)
-- Icons: [Feather Icons](https://feathericons.com/)
-- Images: Original Razorpay assets used for educational purposes
-
-## 📄 License
-
-This project is intended for educational purposes only. All design elements and brand assets belong to Razorpay. 
