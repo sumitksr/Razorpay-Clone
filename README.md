@@ -1,6 +1,6 @@
 # Razorpay Website Clone
 
-![Razorpay Clone](https://raw.githubusercontent.com/username/razorpay-clone/main/Images/preview.png)
+
 
 A fully responsive clone of the Razorpay website built with HTML, CSS, and JavaScript. This project focuses on recreating Razorpay's modern UI with interactive elements using TailwindCSS.
 
