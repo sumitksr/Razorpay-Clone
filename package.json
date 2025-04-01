@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "prebuild": "chmod +x ./node_modules/.bin/vite",
+    "build": "vite build"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
@@ -12,3 +14,4 @@
     "feather": "^0.0.5"
   }
 }
+
